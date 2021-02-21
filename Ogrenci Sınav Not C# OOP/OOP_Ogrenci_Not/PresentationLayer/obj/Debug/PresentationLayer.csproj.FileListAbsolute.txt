@@ -1,0 +1,17 @@
+C:\Users\Mert\source\repos\OOP_Ogrenci_Not\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\Mert\source\repos\OOP_Ogrenci_Not\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\Mert\source\repos\OOP_Ogrenci_Not\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\Mert\source\repos\OOP_Ogrenci_Not\PresentationLayer\bin\Debug\BLLKulup.dll
+C:\Users\Mert\source\repos\OOP_Ogrenci_Not\PresentationLayer\bin\Debug\EntityLayer.dll
+C:\Users\Mert\source\repos\OOP_Ogrenci_Not\PresentationLayer\bin\Debug\FacadeLayer.dll
+C:\Users\Mert\source\repos\OOP_Ogrenci_Not\PresentationLayer\bin\Debug\BLLKulup.pdb
+C:\Users\Mert\source\repos\OOP_Ogrenci_Not\PresentationLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Mert\source\repos\OOP_Ogrenci_Not\PresentationLayer\bin\Debug\FacadeLayer.pdb
+C:\Users\Mert\source\repos\OOP_Ogrenci_Not\PresentationLayer\obj\Debug\PresentationLayer.csprojAssemblyReference.cache
+C:\Users\Mert\source\repos\OOP_Ogrenci_Not\PresentationLayer\obj\Debug\PresentationLayer.Form1.resources
+C:\Users\Mert\source\repos\OOP_Ogrenci_Not\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\Mert\source\repos\OOP_Ogrenci_Not\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\Mert\source\repos\OOP_Ogrenci_Not\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\OOP_Ogrenci_Not\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\Mert\source\repos\OOP_Ogrenci_Not\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\Mert\source\repos\OOP_Ogrenci_Not\PresentationLayer\obj\Debug\PresentationLayer.pdb

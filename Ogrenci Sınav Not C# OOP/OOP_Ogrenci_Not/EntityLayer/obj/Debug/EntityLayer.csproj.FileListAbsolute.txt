@@ -1,0 +1,6 @@
+C:\Users\Mert\source\repos\OOP_Ogrenci_Not\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\Mert\source\repos\OOP_Ogrenci_Not\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Mert\source\repos\OOP_Ogrenci_Not\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+C:\Users\Mert\source\repos\OOP_Ogrenci_Not\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\OOP_Ogrenci_Not\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\Mert\source\repos\OOP_Ogrenci_Not\EntityLayer\obj\Debug\EntityLayer.pdb

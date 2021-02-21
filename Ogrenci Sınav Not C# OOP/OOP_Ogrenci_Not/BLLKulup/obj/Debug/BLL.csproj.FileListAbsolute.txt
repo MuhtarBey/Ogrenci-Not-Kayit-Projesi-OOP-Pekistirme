@@ -1,0 +1,11 @@
+C:\Users\Mert\source\repos\OOP_Ogrenci_Not\BLLKulup\bin\Debug\BLLKulup.dll
+C:\Users\Mert\source\repos\OOP_Ogrenci_Not\BLLKulup\bin\Debug\BLLKulup.pdb
+C:\Users\Mert\source\repos\OOP_Ogrenci_Not\BLLKulup\bin\Debug\EntityLayer.dll
+C:\Users\Mert\source\repos\OOP_Ogrenci_Not\BLLKulup\bin\Debug\FacadeLayer.dll
+C:\Users\Mert\source\repos\OOP_Ogrenci_Not\BLLKulup\bin\Debug\EntityLayer.pdb
+C:\Users\Mert\source\repos\OOP_Ogrenci_Not\BLLKulup\bin\Debug\FacadeLayer.pdb
+C:\Users\Mert\source\repos\OOP_Ogrenci_Not\BLLKulup\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Mert\source\repos\OOP_Ogrenci_Not\BLLKulup\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\OOP_Ogrenci_Not\BLLKulup\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Mert\source\repos\OOP_Ogrenci_Not\BLLKulup\obj\Debug\BLLKulup.dll
+C:\Users\Mert\source\repos\OOP_Ogrenci_Not\BLLKulup\obj\Debug\BLLKulup.pdb

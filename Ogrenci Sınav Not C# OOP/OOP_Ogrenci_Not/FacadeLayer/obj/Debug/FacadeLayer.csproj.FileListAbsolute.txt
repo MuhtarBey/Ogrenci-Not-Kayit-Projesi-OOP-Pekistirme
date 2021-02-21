@@ -1,0 +1,9 @@
+C:\Users\Mert\source\repos\OOP_Ogrenci_Not\FacadeLayer\bin\Debug\FacadeLayer.dll
+C:\Users\Mert\source\repos\OOP_Ogrenci_Not\FacadeLayer\bin\Debug\FacadeLayer.pdb
+C:\Users\Mert\source\repos\OOP_Ogrenci_Not\FacadeLayer\bin\Debug\EntityLayer.dll
+C:\Users\Mert\source\repos\OOP_Ogrenci_Not\FacadeLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Mert\source\repos\OOP_Ogrenci_Not\FacadeLayer\obj\Debug\FacadeLayer.csprojAssemblyReference.cache
+C:\Users\Mert\source\repos\OOP_Ogrenci_Not\FacadeLayer\obj\Debug\FacadeLayer.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\OOP_Ogrenci_Not\FacadeLayer\obj\Debug\FacadeLayer.csproj.CopyComplete
+C:\Users\Mert\source\repos\OOP_Ogrenci_Not\FacadeLayer\obj\Debug\FacadeLayer.dll
+C:\Users\Mert\source\repos\OOP_Ogrenci_Not\FacadeLayer\obj\Debug\FacadeLayer.pdb
